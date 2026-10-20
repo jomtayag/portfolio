@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# portfolio
-=======
 # Jomari Tayag — Portfolio
 
 Personal portfolio of **Jomari Tayag**, a full-stack web developer (Vue 3 · Laravel · TypeScript) with 11+ years of experience and an AI-augmented workflow built around Claude Code and OpenAI Codex.
@@ -74,4 +71,3 @@ The build uses relative asset paths, so it works both as a user site (`username.
 ---
 
 © Jomari Tayag. All rights reserved.
->>>>>>> fb0ac1e (Initial portfolio)
